@@ -1,0 +1,14 @@
+{
+  "smtp": {
+    "gmail": {
+      "host": "smtp.gmail.com",
+      "port": 587,
+      "email": "rorganion@gmail.com",
+      "password": "isandxqcwwlbrsos",
+      "ssl": true
+    }
+  },
+  "dbms": {
+    "planetScale": "Server=aws.connect.psdb.cloud;Database=rimas;user=zv1o3holqu3yz07q58cg;password=pscale_pw_yxSV5Txu587LrfjmNsfBFDU4Qew47bu2Yz0hamuGCPr;SslMode=VerifyFull;"
+  }
+}
